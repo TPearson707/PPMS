@@ -1,0 +1,25 @@
+Pearson Password Management Software (PPMS)
+
+08/26/2024
+
+Download VS Code ✓
+Download Git ✓
+Set up local directory ✓
+
+What I will be using:
+
+- Front End: Sciter
+- OAuth: FastAPI
+- Control: Python
+- Database: SQLite
+- Backend (Encryption algs): C++
+
+08/27/2024
+
+- Install Python
+- Install pip
+
+- initialize GitHub repo and push to origin.
+
+- design a simple gui in photo shop to figure out what the backend should do.
+- Set up OAuth script, and start building backend using a dictionary as the primary data structure. Funny O(1) and better scalability.
